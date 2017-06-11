@@ -1,6 +1,6 @@
 const Gdax = require('gdax')
 const orderbookSync = new Gdax.OrderbookSync()
-const INTERVAL = 3000
+const INTERVAL = 10000
 let ready = false
 let lastPrint = 0
 
