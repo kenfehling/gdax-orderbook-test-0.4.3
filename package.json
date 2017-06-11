@@ -1,0 +1,8 @@
+{
+  "name": "gdax-orderbook-test",
+  "author": "Ken Fehling",
+  "version": "0.0.1",
+  "dependencies": {
+    "gdax": "git://github.com/coinbase/gdax-node"
+  }
+}
